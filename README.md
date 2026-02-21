@@ -21,4 +21,4 @@ Gett (formerly GetTaxi) is a corporate Ground Transportation Management platform
 ## How to Run
 1. Clone the repository.
 2. Ensure `data_offers.csv` and `data_orders.csv` are located in the root directory
-3. Run the Jupyter Notebook to view the analysis and interactive map outputs.
+3. Run the Jupyter Notebook to view the analysis 
